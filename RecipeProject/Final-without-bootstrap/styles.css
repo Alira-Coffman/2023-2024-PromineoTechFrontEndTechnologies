@@ -2,10 +2,7 @@
 .gfg {
     filter: blur(5px);
     width: 100%;
-}
-.git-test{
-    width:100%;
-}   
+} 
 /* designing title and tag line */
 .hero-img {
     text-align: center;
