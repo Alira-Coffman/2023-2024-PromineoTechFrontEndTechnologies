@@ -1,0 +1,31 @@
+/* THIS IS A COMMENT*/
+/**element SELECTOR*/
+h1
+{
+    color:blue !impor;
+}
+/**ID SELECTOR*/
+#main-title
+{
+    color: red;
+}
+/**CLASS SELECTOR*/
+.text-group{
+    color:green;
+}
+
+#para-test:hover{
+    color:blue;
+}
+
+input{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+}
+
+#para-1
+{
+    font-style: italic;
+}
