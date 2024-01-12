@@ -1,0 +1,25 @@
+#small-header{
+    color:blue;
+    background-color: chartreuse;
+}
+
+.content {
+    background-color: aquamarine;
+    padding: 5px 10px;
+    color:cornflowerblue;
+    width: 10252px;
+}
+
+.carousel-item
+{
+    color:blue;
+}
+.container
+{background-color: rgb(42, 75, 75);}
+.col{
+    background-color: rgb(112, 95, 239);
+}
+.col-1
+{
+    background-color: blueviolet;
+}
