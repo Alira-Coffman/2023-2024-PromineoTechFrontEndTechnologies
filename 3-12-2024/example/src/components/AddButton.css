@@ -1,0 +1,8 @@
+.btn
+{
+    width: 150px;
+}
+.btn-primary {
+    color: red;
+    background-color: darkgreen;
+}
